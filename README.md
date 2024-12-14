@@ -11,8 +11,3 @@
   + Danh sach san pham (hoan thanh giao dien)
   + Navigation (chua hoan thanh)
 - Chua chuyen sang teaful va immer
-
-
-## Giao dien ngay 1
-
-![HomePage] (./images/day1.png)
